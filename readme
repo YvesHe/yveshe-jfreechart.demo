@@ -1,0 +1,11 @@
+版本选择: 
+1.0.19
+该版本有对3D图形的支持.
+
+
+最新版本:
+1.5.0
+无对3D图形的支持,所有3D图形的支持在项目orson-charts上: https://github.com/jfree/orson-charts 有丰富的API文档,但是该项目是商用的
+
+
+本项目是针对1.0.19版本对使用JFreeChart的项目进项样式自定义设计的Demo

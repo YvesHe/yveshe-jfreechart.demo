@@ -1,0 +1,27 @@
+*.class
+target/
+/target/
+/javadoc/
+
+# For modified
+*.bak
+*.swp
+*.swo
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# For Eclipse
+/nbproject/private/
+/target/
+/javadoc/
+
+# Eclipse files
+/.classpath
+/.project
+/.settings
+
+# Intellij Idea
+.idea
